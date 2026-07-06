@@ -12,9 +12,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 
 ## 🚀 Live Demo
 
-🔗 https://rohitkumar1144.github.io/Rock-Paper-Scissors/
-
-> Replace the above link if your GitHub Pages URL is different.
+🔗 https://rohitkumar1144.github.io/Rock-Paper-Scissor/
 
 ---
 
