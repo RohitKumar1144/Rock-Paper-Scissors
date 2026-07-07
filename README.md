@@ -1,4 +1,14 @@
+# ✊✋✌️ Rock Paper Scissors
 
+A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer, keep track of your score, reset it anytime, or let the game play automatically with the Auto Play feature.
+
+---
+
+## 📸 Preview
+
+![Rock Paper Scissors Homepage](images/homepage.png)
+
+---
 
 ## 🚀 Live Demo
 
