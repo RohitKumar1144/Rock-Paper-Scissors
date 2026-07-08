@@ -18,14 +18,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 
 ## ✨ Features
 
-- 🎮 Play Rock, Paper, or Scissors against the computer
-- 🤖 Random computer move generation
-- 🏆 Score tracking (Wins, Losses, Ties)
-- 💾 Score saved using Local Storage
-- 🔄 Reset score with confirmation prompt
-- ⚡ Auto Play mode
-- ⌨️ Keyboard shortcuts support (if implemented)
-- 📱 Responsive and simple UI
+
 
 ---
 
